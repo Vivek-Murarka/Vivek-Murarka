@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**Vivek-Murarka/Vivek-Murarka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Myself: Vivek Murarka
+Qualification: Bachelor's in Information Science and Engineering(VTU-2016)
+Skills: Java, Python, Microservices, Eclipse Plugin, Maven, Jenkins
+        Docker, Kubernetes...
+Employement History: 
+                    1. Senior Software Engineer at Bosch(2016-2021)
+                    2. Senior Application Engineer at Oracle(2021-Present)
+                    
+Contact me: www.linkedin.com/in/vivek-murarka-50611615
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Why I'm here?
+- 🔭 I’m currently working on Algorithm and Data Structures
+- 🌱 I’m currently exploring programming in Java and Python
+- 👯 I’m looking to collaborate on Artificial intelligence and Machine learning
+- 💬 Ask me about Java and Business Logic Conversion
