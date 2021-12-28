@@ -14,3 +14,7 @@ Contact me: www.linkedin.com/in/vivek-murarka-50611615
 - 🌱 I’m currently exploring programming in Java and Python
 - 👯 I’m looking to collaborate on Artificial intelligence and Machine learning
 - 💬 Ask me about Java and Business Logic Conversion
+
+**###Stats**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-Murarka)](https://github.com/anuraghazra/github-readme-stats)
+Credits: [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
