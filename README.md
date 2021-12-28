@@ -17,4 +17,4 @@ Contact me: www.linkedin.com/in/vivek-murarka-50611615
 
 **###Stats**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-Murarka)](https://github.com/anuraghazra/github-readme-stats)
-Credits: [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+Credits: https://github.com/anuraghazra/github-readme-stats.git
